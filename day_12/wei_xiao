@@ -1,0 +1,29 @@
+Python in AI
+* Machine Learning
+* Deep Learning
+
+ML End to end
+ML model training
+ML model inference - Data fed into your model
+
+* Tech used in data science at NVIDEA
+** numpy
+** scipy
+** pandas
+** matplotlib
+
+
+* ML Frameworks
+** Tensorflow
+** pytorch
+** mxnet
+** tensorrt
+
+* Accelerated data science with RAPIDS
+
+
+* Use Cases
+tractor
+bees
+genomic testing
+census dashboard

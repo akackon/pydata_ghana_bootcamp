@@ -1,0 +1,17 @@
+1646480372733	geckodriver	INFO	Listening on 127.0.0.1:43503
+1646480372740	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "48179" "-no-remote" "-profile" "/tmp/rust_mozprofileP6NGJh"
+Gtk-Message: 11:39:33.008: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:39:33.009: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1646480521673	geckodriver	INFO	Listening on 127.0.0.1:60035
+1646480521681	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "42921" "-no-remote" "-profile" "/tmp/rust_mozprofileZApCnV"
+2022/03/05 11:42:01.705399 cmd_run.go:1039: WARNING: cannot start document portal: write unix @->/run/user/1000/bus: write: broken pipe
+mkdir: cannot create directory '/run/user/0': Permission denied
+No protocol specified
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :0
